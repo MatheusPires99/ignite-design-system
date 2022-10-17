@@ -9,7 +9,7 @@ export const Heading = styled("h2", {
   color: "$gray100",
 
   variants: {
-    variant: {
+    size: {
       sm: { fontSize: "$xl" },
       md: { fontSize: "$2xl" },
       lg: { fontSize: "$4xl" },

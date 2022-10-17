@@ -9,7 +9,7 @@ export const Text = styled("p", {
   color: "$gray100",
 
   variants: {
-    variant: {
+    size: {
       xxs: { fontSize: "$xxs" },
       xs: { fontSize: "$xs" },
       sm: { fontSize: "$sm" },
