@@ -5,11 +5,11 @@ export default {
   title: "Typography/Text",
   component: Text,
   args: {
-    children: "Lorem ipsum dolor sit amet, consectetur adip",
+    children: "Default Text",
   },
 } as Meta<TextProps>;
 
-export const Primary: StoryObj<TextProps> = {};
+export const Default: StoryObj<TextProps> = {};
 
 export const CustomTag: StoryObj<TextProps> = {
   args: {

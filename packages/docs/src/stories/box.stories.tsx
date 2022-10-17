@@ -13,4 +13,4 @@ export default {
   },
 } as Meta<BoxProps>;
 
-export const Primary: StoryObj<BoxProps> = {};
+export const Default: StoryObj<BoxProps> = {};
