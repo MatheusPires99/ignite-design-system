@@ -1,0 +1,2 @@
+import{A as t}from"./index.d8c3360f.js";import"./index.b0f1ffba.js";import"./iframe.50f4a9e8.js";import"./index.d23946ec.js";import"./jsx-runtime.43b22331.js";const i={title:"Data Display/Avatar",component:t,args:{src:"https://github.com/MatheusPires99.png",alt:"Matheus Pires"},argTypes:{src:{control:{type:"text"}}}},p={},c={args:{src:void 0}},l=["Default","WithFallback"];export{p as Default,c as WithFallback,l as __namedExportsOrder,i as default};
+//# sourceMappingURL=avatar.stories.85f17c21.js.map
