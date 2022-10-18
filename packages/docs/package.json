@@ -1,5 +1,5 @@
 {
-  "name": "@ignite-ui/docs",
+  "name": "@matheuspires-ignite-ui/docs",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -26,10 +26,10 @@
     "vite": "^3.1.7"
   },
   "dependencies": {
-    "@ignite-ui/eslint-config": "*",
-    "@ignite-ui/react": "*",
-    "@ignite-ui/tokens": "*",
-    "@ignite-ui/ts-config": "*",
+    "@matheuspires-ignite-ui/eslint-config": "*",
+    "@matheuspires-ignite-ui/react": "*",
+    "@matheuspires-ignite-ui/tokens": "*",
+    "@matheuspires-ignite-ui/ts-config": "*",
     "@storybook/addon-a11y": "^6.5.12",
     "@storybook/storybook-deployer": "^2.8.12",
     "phosphor-react": "^1.4.1",
