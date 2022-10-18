@@ -1,4 +1,9 @@
-import { Box, Text, TextArea, TextAreaProps } from "@matheuspires-ignite-ui/react";
+import {
+  Box,
+  Text,
+  TextArea,
+  TextAreaProps,
+} from "@matheuspires-ignite-ui/react";
 import type { StoryObj, Meta } from "@storybook/react";
 
 export default {
